@@ -28,11 +28,7 @@
     _obj = [[NSObject alloc]init];
     
     int a    = 5;
-<<<<<<< HEAD
-    int b    = 10;
-=======
     int b    = 15;
->>>>>>> develop
     self.sum = a + b;
     
     NSLog(@"The Result is:%d",self.sum);
