@@ -28,7 +28,7 @@
     _obj = [[NSObject alloc]init];
     
     int a    = 5;
-    int b    = 15;
+    int b    = 25;
     self.sum = a + b;
     
     NSLog(@"The Result is:%d",self.sum);
