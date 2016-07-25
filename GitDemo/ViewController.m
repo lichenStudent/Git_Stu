@@ -37,7 +37,14 @@
     
     [self sayHello];
     
+    [self sayLove];
+    
 
+}
+
+- (void)sayLove
+{
+    NSLog(@"say something else !");
 }
 
 - (void)sayGoodBye
